@@ -10,7 +10,7 @@
 
 ### Alumno: Maciel Norman Adrián 
 ### Tutora: Agustina Bussi
-
+[InformeTpFinal](/docs/informeTrabajoFinalFullCoders.docx)
 <br><br>
 
 
@@ -35,7 +35,7 @@ El sistema debe proporcionar los siguientes requisitos funcionales:
 La interfaz de usuario debe ser fácil de usar y comprensible tanto para la administración como para los empleados.
 
 •	Listar Sueldos Mínimos:
-Listar solo los sueldos netos iniciales de cada categoría, ya que esta información es frecuentemente buscada por los que están en búsqueda de trabajo en el rubro y cuya información es relevante para la negociación salarial en las entrevistas o posterior etapa.
+Listar solo los sueldos netos iniciales de cada categoría, ya que esta información es frecuentemente consultada por los que están en búsqueda de trabajo en el rubro y cuya información es relevante para la negociación salarial en las entrevistas o posterior etapa.
 
 •	Listar sitios web de interés:
 Debe permitir listar ciertos sitios web que la administración considere relevante para que el afiliado pueda obtener información complementaria respecto de alguna inquietud.  
@@ -45,7 +45,7 @@ Permitir a los usuarios simular un recibo de sueldo detallando categoría, antig
 
 # Metodología 
 Para el proyecto TuSalario usamos la metodología Kanban. Por ello se creó un tablero con 4 columnas: Pendientes-Haciendo-Revisión-Hecho.
-Creamos una lista de tareas que inicialmente se ubicaran en la columna Pendientes. Una vez empezada una tarea se moverá la misma a la Haciendo y una vez terminada a Revisión, donde reevaluaremos la función o aplicaremos alguna actualización u optimización para luego incluirla finalmente en la columna Hecho. 
+Creamos una lista de tareas que inicialmente se ubicaran en la columna Pendientes. Una vez empezada una tarea se moverá la misma a la columna Haciendo y una vez terminada a Revisión, donde reevaluaremos la función o aplicaremos alguna actualización u optimización para luego incluirla finalmente en la columna Hecho. 
 
 ## Lista de Tareas:
 •	Diseño de la interfaz de usuario
